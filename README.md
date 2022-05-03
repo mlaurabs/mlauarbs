@@ -7,7 +7,7 @@
     <li>I'm brazilian🌎</li>
     <li>I'm currently a high school studant at CEFET-RJ📚</li>
     <li>I like programing and I enjoy learning it💻</li>
-    <li>I aim to improve the skils I already got and to get new ones🖥📝</li>
+    <li>I aim to improve the skills I already got and to get new ones🖥📝</li>
 </ul>
 <hr>
 <br>
