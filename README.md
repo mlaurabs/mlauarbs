@@ -21,6 +21,12 @@
     <li>Espero melhorar minhas habilidades e obter novas🖥📝</li>
 </ul>
 
+<div align="center">
+    <a href="https://github.com/mlaurabs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlaurabs&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlaurabs&layout=compact&langs_count=7&theme=outrun"/>
+ </div>
+
 <br>
 <h2>These are the skils I'm currently working on:</h2>
 <p><i>Essas são as habilidades nas quais estou trabalhando atualmente:</i></p>
