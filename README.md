@@ -38,15 +38,14 @@
   <img align="center" alt="python" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/python-original.svg">
   <img align="center" alt="c++" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/C%2B%2B-Logo.wine.svg">
   <img align="center" alt="java" height="45" width="45" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/java-seeklogo.com.svg">
-  <img align="center" alt="andStudio" height="80" width="80" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/android-studio.png">
+  <img align="center" alt="andStudio" height="80" width="80" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/android%20logo.png">
   <img align ="center" alt="xml" height="45" width="45" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/xmlLogo.png">  
 </div>
 <br>
 <br>
 <h2>These are the ones I intend on learning next:</h2>
 <p><i>Essas são as habilidades as quais pretendo obter:</i></p>
-  <img align="center" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png">
-  <img align="center" alt="java" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/87710022e5015c3f2348a454e23937f085c20584/java-seeklogo.com.svg">
+  <img align="center" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png" >
 <br>
 <br>
 
