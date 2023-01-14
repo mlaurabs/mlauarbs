@@ -29,7 +29,7 @@
 <h2>These are the skils I'm currently working on:</h2>
 <p><i>Essas são as habilidades nas quais estou trabalhando atualmente:</i></p>
 <div style="display: inline_block"><br>
-  <img align="center" alt="bootstrap" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/bootstrap-original.svg">
+  <img align="center" alt="bootstrap" height="40" width="40" src="[https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/bootstrap-original.svg](https://github.com/mlaurabs/mlaurabs/blob/master/vectors/bootstrap-original.svg">
   <img align="center" alt="css" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/css3-original.svg">
   <img align="center" alt="html-5" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/html5-original.svg">
   <img align="center" alt="js" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/javascript-original.svg">
