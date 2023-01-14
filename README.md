@@ -36,6 +36,8 @@
   <img align="center" alt="php" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/php-original.svg">
   <img align="center" alt="sql" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/postgresql-original.svg">
   <img align="center" alt="python" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/python-original.svg">
+  <img align="center" alt="c++" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/bfac19766ff2991de942ec3a8fbe96937ed99265/C++-Logo.wine.svg">
+  <img align="center" alt="java" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/87710022e5015c3f2348a454e23937f085c20584/java-seeklogo.com.svg">
 </div>
 <br>
 <br>
