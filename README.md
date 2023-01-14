@@ -5,7 +5,7 @@
 <ul>
     <li>I'm 17 years old👩</li>
     <li>I'm brazilian🌎</li>
-    <li>I'm currently a high school studant at CEFET-RJ📚</li>
+    <li>I'm currently a high school student at CEFET-RJ📚</li>
     <li>I like programing and I enjoy learning it💻</li>
     <li>I aim to improve the skills I already got and to get new ones🖥📝</li>
 </ul>
