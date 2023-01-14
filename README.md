@@ -54,7 +54,11 @@
 <h2>Contact me📧</h2>
 <div> 
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-laura-soares-1a10b122b/" target="_blank"><img height="50" width="50" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/linkedin-original.svg" target="_blank"></a>
- 
 </div>
+
+<div>
+  <a href="https://www.linkedin.com/in/maria-laura-soares-1a10b122b/" target="_blank">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+</div> 
+
 </html>
