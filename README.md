@@ -45,7 +45,7 @@
 <br>
 <h2>These are the ones I intend on learning next:</h2>
 <p><i>Essas são as habilidades as quais pretendo obter:</i></p>
-  <img align="center" alt="c++" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/bfac19766ff2991de942ec3a8fbe96937ed99265/C++-Logo.wine.svg">
+  <img align="center" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png">
   <img align="center" alt="java" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/87710022e5015c3f2348a454e23937f085c20584/java-seeklogo.com.svg">
 <br>
 <br>
