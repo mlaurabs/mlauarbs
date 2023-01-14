@@ -39,7 +39,7 @@
   <img align="center" alt="c++" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/C%2B%2B-Logo.wine.svg">
   <img align="center" alt="java" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/java-seeklogo.com.svg">
   <img align="center" alt="andStudio" height="80" width="80" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/androidStudioLogo.png">
-  <img align ="center" alt="xml" height="60" width="60" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/xmlLogo.png">  
+  <img align ="center" alt="xml" height="45" width="45" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/xmlLogo.png">  
 </div>
 <br>
 <br>
