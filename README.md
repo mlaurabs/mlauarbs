@@ -38,7 +38,7 @@
   <img align="center" alt="python" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/python-original.svg">
   <img align="center" alt="c++" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/C%2B%2B-Logo.wine.svg">
   <img align="center" alt="java" height="45" width="45" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/java-seeklogo.com.svg">
-  <img align="center" alt="andStudio" height="70" width="150" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/android%20logo.png">
+  <img align="center" alt="andStudio" height="70" width="90" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/android%20logo.png">
   <img align ="center" alt="xml" height="45" width="45" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/xmlLogo.png">  
 </div>
 <br>
