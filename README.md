@@ -20,13 +20,13 @@
     <li>Gosto de programar e me divirto aprendendo💻</li>
     <li>Espero melhorar minhas habilidades e obter novas🖥📝</li>
 </ul>
-
+<hr>
 <div align="center">
     <a href="https://github.com/mlaurabs">
-    <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlaurabs&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlaurabs&layout=compact&langs_count=7&theme=outrun"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlaurabs&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlaurabs&layout=compact&langs_count=7&theme=outrun"/>
  </div>
-
+<hr>
 <br>
 <h2>These are the skils I'm currently working on:</h2>
 <p><i>Essas são as habilidades nas quais estou trabalhando atualmente:</i></p>
