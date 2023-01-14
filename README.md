@@ -29,15 +29,17 @@
 <h2>These are the skils I'm currently working on:</h2>
 <p><i>Essas são as habilidades nas quais estou trabalhando atualmente:</i></p>
 <div style="display: inline_block"><br>
-  <img align="center" alt="bootstrap" height="40" width="40" src="[https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/bootstrap-original.svg](https://github.com/mlaurabs/mlaurabs/blob/master/vectors/bootstrap-original.svg">
-  <img align="center" alt="css" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/css3-original.svg">
-  <img align="center" alt="html-5" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/html5-original.svg">
-  <img align="center" alt="js" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/javascript-original.svg">
-  <img align="center" alt="php" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/php-original.svg">
-  <img align="center" alt="sql" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/postgresql-original.svg">
-  <img align="center" alt="python" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/b67736a9fc3ff1967919e32e76ce2bfa4f805abb/python-original.svg">
+  <img align="center" alt="bootstrap" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/bootstrap-original.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/css3-original.svg">
+  <img align="center" alt="html-5" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/html5-original.svg">
+  <img align="center" alt="js" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/javascript-original.svg">
+  <img align="center" alt="php" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/php-original.svg">
+  <img align="center" alt="sql" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/postgresql-original.svg">
+  <img align="center" alt="python" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/python-original.svg">
   <img align="center" alt="c++" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/C%2B%2B-Logo.wine.svg">
-  <img align="center" alt="java" height="40" width="40" src="https://github.com/mlaurabs/mlauarbs/blob/87710022e5015c3f2348a454e23937f085c20584/java-seeklogo.com.svg">
+  <img align="center" alt="java" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/java-seeklogo.com.svg">
+  <img align="center" alt="andStudio" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/androidStudioLogo.png">
+  <img align ="center" alt="xml" height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/xmlLogo.png">  
 </div>
 <br>
 <br>
@@ -51,7 +53,7 @@
 <h2>Contact me📧</h2>
 <div> 
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-laura-soares-1a10b122b/" target="_blank"><img height="50" width="50" src="https://github.com/mlaurabs/mlauarbs/blob/c28fbafe140a1d750850914c2472a06f86b441b2/linkedin-original.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-laura-soares-1a10b122b/" target="_blank"><img height="50" width="50" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/linkedin-original.svg" target="_blank"></a>
  
 </div>
 </html>
