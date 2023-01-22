@@ -3,9 +3,9 @@
 <p><i>En-US</i></p>
 <h1>Hi there! My name's Maria Laura and welcome to my GitHub!😊</h1>
 <ul>
-    <li>I'm 17 years old👩</li>
+    <li>I'm 18 years old👩</li>
     <li>I'm brazilian🌎</li>
-    <li>I'm currently a high school student at CEFET-RJ📚</li>
+    <li>I've just graduated from technical high school at CEFET/RJ📚</li>
     <li>I like programing and I enjoy learning it💻</li>
     <li>I aim to improve the skills I already got and to get new ones🖥📝</li>
 </ul>
@@ -14,9 +14,9 @@
 <p><i>PT-BR</i></p>
 <h1>Olá! Meu nome é Maria Laura e bem-vindo ao meu GitHub!😊</h1>
 <ul>
-    <li>Tenho 17 anos👩</li>
+    <li>Tenho 18 anos👩</li>
     <li>Sou brasileira🌎</li>
-    <li>No momento, sou estudante do ensino médio técnico no CEFET-RJ📚</li>
+    <li>Acabei de me formar no Ensino Médio Técnico em Informática no CEFET-RJ📚</li>
     <li>Gosto de programar e me divirto aprendendo💻</li>
     <li>Espero melhorar minhas habilidades e obter novas🖥📝</li>
 </ul>
