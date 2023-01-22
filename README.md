@@ -12,7 +12,7 @@
 <hr>
 <br>
 <p><i>PT-BR</i></p>
-<h1>Olá! Meu nome é Maria Laura e bem-vindo ao meu GitHub!😊</h1>
+<h1>Olá! Meu nome é Maria Laura e bem-vindo(a) ao meu GitHub!😊</h1>
 <ul>
     <li>Tenho 18 anos👩</li>
     <li>Sou brasileira🌎</li>
