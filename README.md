@@ -24,7 +24,7 @@
 <div>
     <a href="https://github.com/mlaurabs">
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlaurabs&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlaurabs&layout=compact&langs_count=7&theme=outrun"/>
+   
 </div>
 
 <hr>
