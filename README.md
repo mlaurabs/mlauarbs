@@ -51,6 +51,7 @@
 <h2>These are the ones I intend on learning next:</h2>
 <p><i>Essas são as habilidades as quais pretendo obter:</i></p>
   <img align="center" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png" >
+  <img align="center" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png" >
 <br>
 <br>
 
