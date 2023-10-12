@@ -50,8 +50,8 @@
 <br>
 <h2>These are the ones I intend on learning next:</h2>
 <p><i>Essas são as habilidades as quais pretendo obter:</i></p>
-  <img align="center" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png" >
-  <img align="center" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png" >
+  <img align="left" alt="flutter height="40" width="40" src="https://github.com/mlaurabs/mlaurabs/blob/master/vectors/flutterLogo.png" >
+  <img align="center" alt="flutter height="50" width="50" src="https://github.com/mlaurabs/mlaurabs/blob/f576fb90ca9fc2b83159d94893ccb231612d8399/vectors/swift-programming-language-icon.svg" >
 <br>
 <br>
 
