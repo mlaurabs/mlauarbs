@@ -4,8 +4,9 @@
 <h1>Hi there! My name's Maria Laura and welcome to my GitHub!😊</h1>
 <ul>
     <li>I'm 19 years old👩</li>
+    <li>I'm a Computer Science student🖥📚</li>
     <li>I'm brazilian🌎</li>
-    <li>I've just graduated from technical high school at CEFET/RJ📚</li>
+    <li>I've graduated from technical high school at CEFET/RJ📚</li>
     <li>I like programing and I enjoy learning it💻</li>
     <li>I aim to improve the skills I already got and to get new ones🖥📝</li>
 </ul>
@@ -15,8 +16,9 @@
 <h1>Olá! Meu nome é Maria Laura e bem-vindo(a) ao meu GitHub!😊</h1>
 <ul>
     <li>Tenho 19 anos👩</li>
+    <li>Sou estudante de Ciência da Computação🖥📚</li>
     <li>Sou brasileira🌎</li>
-    <li>Acabei de me formar no Ensino Médio Técnico em Informática no CEFET-RJ📚</li>
+    <li>Eu me formei no Ensino Médio Técnico em Informática no CEFET-RJ📚</li>
     <li>Gosto de programar e me divirto aprendendo💻</li>
     <li>Espero melhorar minhas habilidades e obter novas🖥📝</li>
 </ul>
